@@ -19,6 +19,7 @@ header {
   margin-top: 0;
   width: 90%;
   font-size: 1.5em;
+  text-align: right;
 }
 
 .bio {
@@ -37,11 +38,31 @@ header {
   padding-left: 2%;
 }
 
+.project {
+  background-color: #b1cbbb;
+  padding: 2% 5% 4%;
+  margin: auto 6% 3%;
+}
+
+.rounded {
+  border-radius: 8%;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.title {
+  margin: 1.5% auto;
+}
+
+.screenshot {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
 .fab {
   font-size: 2em;
   margin-left: 4%;
   border-radius: 50%;
-  /* background-color: white; */
 }
 
 .twitter {
