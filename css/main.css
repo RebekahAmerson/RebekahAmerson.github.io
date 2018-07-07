@@ -76,3 +76,19 @@ header {
 .linkedin {
   color: #007bb5;
 }
+
+footer {
+  margin-bottom: 4%;
+}
+
+/* Media Queries */
+/* @media screen and (min-width: 650px){
+
+} */
+
+@media only screen and (min-width: 900px) {
+  body{
+    width: 900px;
+    margin: auto;
+  }
+}
